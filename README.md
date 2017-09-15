@@ -1,4 +1,4 @@
-# PSI_2016-2017
+# SYS_2016-2017
 
 Projet aggrégateur des projets etudiants de Systeme de l'année 2016-2017 
 
