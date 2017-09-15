@@ -1,0 +1,66 @@
+[submodule "SYS-BertrandJulie_et_Fontany-LegallBrandon"]
+	path = SYS-BertrandJulie_et_Fontany-LegallBrandon
+	url = git@github.com:DeptInfoProjects/SYS-BertrandJulie_et_Fontany-LegallBrandon.git
+[submodule "SYS_BOUNAB_BERRIRI"]
+	path = SYS_BOUNAB_BERRIRI
+	url = git@github.com:DeptInfoProjects/SYS_BOUNAB_BERRIRI.git
+[submodule "SYS_Abdallah-Lallis"]
+	path = SYS_Abdallah-Lallis
+	url = git@github.com:DeptInfoProjects/SYS_Abdallah-Lallis.git
+[submodule "SYS_callerisa-qui"]
+	path = SYS_callerisa-qui
+	url = git@github.com:DeptInfoProjects/SYS_callerisa-qui.git
+[submodule "SYS_BEKELE_LARABI"]
+	path = SYS_BEKELE_LARABI
+	url = git@github.com:DeptInfoProjects/SYS_BEKELE_LARABI.git
+[submodule "SYS_Marin_LeQuintrec"]
+	path = SYS_Marin_LeQuintrec
+	url = git@github.com:DeptInfoProjects/SYS_Marin_LeQuintrec.git
+[submodule "SYS_Mahe-Dekeyser"]
+	path = SYS_Mahe-Dekeyser
+	url = git@github.com:DeptInfoProjects/SYS_Mahe-Dekeyser.git
+[submodule "SYS_Fischman-Boukadida"]
+	path = SYS_Fischman-Boukadida
+	url = git@github.com:DeptInfoProjects/SYS_Fischman-Boukadida.git
+[submodule "SYS_Briant-NG"]
+	path = SYS_Briant-NG
+	url = git@github.com:DeptInfoProjects/SYS_Briant-NG.git
+[submodule "SYS_ValdenaireMarmoneMarini"]
+	path = SYS_ValdenaireMarmoneMarini
+	url = git@github.com:DeptInfoProjects/SYS_ValdenaireMarmoneMarini.git
+[submodule "SYS_MOHAMADI-KANE"]
+	path = SYS_MOHAMADI-KANE
+	url = git@github.com:DeptInfoProjects/SYS_MOHAMADI-KANE.git
+[submodule "SYS_RAMOUL-DOGLIO"]
+	path = SYS_RAMOUL-DOGLIO
+	url = git@github.com:DeptInfoProjects/SYS_RAMOUL-DOGLIO.git
+[submodule "SYS_KhanSajjad"]
+	path = SYS_KhanSajjad
+	url = git@github.com:DeptInfoProjects/SYS_KhanSajjad.git
+[submodule "SYS_Percelay-Arbona"]
+	path = SYS_Percelay-Arbona
+	url = git@github.com:DeptInfoProjects/SYS_Percelay-Arbona.git
+[submodule "SYS_MOHAMADI-HALIDI-KANE-version-correct-"]
+	path = SYS_MOHAMADI-HALIDI-KANE-version-correct-
+	url = git@github.com:DeptInfoProjects/SYS_MOHAMADI-HALIDI-KANE-version-correct-.git
+[submodule "SYS_Manchez"]
+	path = SYS_Manchez
+	url = git@github.com:DeptInfoProjects/SYS_Manchez.git
+[submodule "SYS_murtin_samak"]
+	path = SYS_murtin_samak
+	url = git@github.com:DeptInfoProjects/SYS_murtin_samak.git
+[submodule "SYS_MalalelJung"]
+	path = SYS_MalalelJung
+	url = git@github.com:DeptInfoProjects/SYS_MalalelJung.git
+[submodule "SYS_Bonsaudo-Lopes"]
+	path = SYS_Bonsaudo-Lopes
+	url = git@github.com:DeptInfoProjects/SYS_Bonsaudo-Lopes.git
+[submodule "SYS_Khorn-Robin"]
+	path = SYS_Khorn-Robin
+	url = git@github.com:DeptInfoProjects/SYS_Khorn-Robin.git
+[submodule "SYS-VAN-STRAATEN-BOBINEAU"]
+	path = SYS-VAN-STRAATEN-BOBINEAU
+	url = git@github.com:DeptInfoProjects/SYS-VAN-STRAATEN-BOBINEAU.git
+[submodule "SYS_Zimmer_Chevrier"]
+	path = SYS_Zimmer_Chevrier
+	url = git@github.com:DeptInfoProjects/SYS_Zimmer_Chevrier.git
